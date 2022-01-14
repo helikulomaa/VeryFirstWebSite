@@ -196,3 +196,13 @@ th, td {
 tr:nth-child(even) {
   background-color: beige;
 }
+
+/*                            Tietoa sivustosta                          */
+
+#tietoasivustosta h1 {
+  padding: 1em;
+}
+
+#tietoasivustosta p {
+  margin-left: 1em;
+}
